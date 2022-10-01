@@ -1,1 +1,1 @@
-# Bookself Project
+# Bookstore Project
