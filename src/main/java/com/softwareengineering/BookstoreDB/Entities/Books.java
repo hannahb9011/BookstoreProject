@@ -1,4 +1,4 @@
-package com.softwareengineering.BookstoreDB;
+package com.softwareengineering.BookstoreDB.Entities;
 
 import lombok.*; // lombok is a library that automatically generates getters, setters, constructors, etc.
 import javax.persistence.Entity;  // JPA is a standard for object-relational mapping
